@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Murodov Ulug'bek",
+        "age": 16,
+        "isStudent": false,
+        "country": "Uzbekistan",
+        "phone": 998932407411
+    },
+    {
+        "name": "Murodov Murod",
+        "age": 17,
+        "isStudent": true,
+        "country": "Uzbekistan",
+        "phone": 998933333333
+    },
+    {
+        "name": "Rahimov Ruslan",
+        "age": 17,
+        "isStudent": true,
+        "country": "Uzbekistan",
+        "phone": 998971234567
+    },
+    {
+        "name": "Steve Jobbs",
+        "age": 66,
+        "isStudent": false,
+        "country": "USA",
+        "phone": 1973124562346
+    },
+    {
+        "name": "Job Royson",
+        "age": 25,
+        "isStudent": true,
+        "country": "Great Britain",
+        "phone": 123456789
+    }
+]

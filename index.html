@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="title">Web</h1>
+    <button id="btn1">Web</button>
+    <button id="btn2">Android</button>
+    <button id="btn3">IOS</button>
+   <script>
+    let btn1=document.getElementById('btn1')
+    let btn2=document.getElementById('btn2')
+    let btn3=document.getElementById('btn3')
+    let title=document.getElementById('title')
+
+    btn1.addEventListener('click', ()=>title.textContent=btn1.textContent)
+    btn2.addEventListener('click', ()=>title.textContent=btn2.textContent)
+    btn3.addEventListener('click', ()=>title.textContent=btn3.textContent)
+   </script> 
+</body>
+</html>
